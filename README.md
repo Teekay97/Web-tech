@@ -1,2 +1,2 @@
 # Web-tech
-Food ordering app
+Food ordering website
